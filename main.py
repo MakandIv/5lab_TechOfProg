@@ -172,4 +172,4 @@ for i in a:
 average /= len(a)
 print(average)
 
-print("Конец программы.")
+print("Программа завершена.")

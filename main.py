@@ -171,3 +171,5 @@ for i in a:
     average += int(i["temperature"])
 average /= len(a)
 print(average)
+
+print("Конец программы.")
